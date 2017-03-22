@@ -6,4 +6,4 @@
 
 [班級網誌](http://mde.tw/2017springcd/blog/)
 
-[Fossil](https://mde2a2.kmol.info/cdbg1)
+[bg1 Fossil](https://mde2a2.kmol.info/cdbg1)
