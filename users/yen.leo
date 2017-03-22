@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -412,16 +412,21 @@ make.start()
 
 						
 </t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
+<t tx="yen.20170120110024.8">## 2017SPRING 協同產品設計實習
 
-### 虎科大機械設計工程系
+### BG1 40423219
 
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[協同產品設計實習課程網誌](blog/index.html)
+[40423219網誌](blog/index.html)
 
+[40423219投影片](https://40423219.github.io/2017springcd_hw)
+
+[班級網誌](http://mde.tw/2017springcd/blog/)
+
+[bg1 Fossil](https://mde2a2.kmol.info/cdbg1)
 
 </t>
 <t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
