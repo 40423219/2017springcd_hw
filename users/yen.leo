@@ -62,7 +62,7 @@
 <v t="leo.20170329100328.1"><vh>@edit 20170329.md</vh></v>
 <v t="leo.20170329110524.1"><vh>@edit 2017032901.md</vh></v>
 <v t="leo.20170329112632.1"><vh>@edit 2017032902.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -425,9 +425,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 [40423219網誌](blog/index.html)
 
-[40423219投影片](https://40423219.github.io/2017springcd_hw)
-
 [班級網誌](http://mde.tw/2017springcd/blog/)
+
+[bg1 倉儲](https://github.com/40423226/2017springcd_bg1)
 
 [bg1 Fossil](https://mde2a2.kmol.info/cdbg1)
 
