@@ -33,17 +33,65 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170419010154.1"><vh>201700301Week1</vh>
+<v t="leo.20170419010154.2" a="E"><vh>周次</vh>
+<v t="leo.20170419010154.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419010154.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419010154.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170419010755.1"><vh>201700312Week2</vh>
+<v t="leo.20170419010755.2" a="E"><vh>周次</vh>
+<v t="leo.20170419010755.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419010755.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419010755.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170419010757.1"><vh>201700315Week3</vh>
+<v t="leo.20170419010757.2" a="E"><vh>周次</vh>
+<v t="leo.20170419010757.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419010757.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419010757.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170419011032.1"><vh>201700320Week4</vh>
+<v t="leo.20170419011032.2" a="E"><vh>周次</vh>
+<v t="leo.20170419011032.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419011032.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419011032.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170419011655.1"><vh>201700321Week5</vh>
+<v t="leo.20170419011655.2" a="E"><vh>周次</vh>
+<v t="leo.20170419011655.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419011655.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419011655.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170419011747.1" a="E"><vh>201700329Week6</vh>
+<v t="leo.20170419011747.2" a="E"><vh>周次</vh>
+<v t="leo.20170419011747.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419011747.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419011747.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
 <v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
+<v t="yen.20170120110024.14"><vh>導入縮排程式碼</vh>
 <v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
 </v>
 <v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
@@ -70,7 +118,7 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
-<v t="yen.20170120212350.1" a="E"><vh>programs</vh>
+<v t="yen.20170120212350.1"><vh>programs</vh>
 <v t="yen.20170210153828.1" a="E"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
@@ -90,6 +138,197 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170419010154.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419010154.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419010154.3"># Week 1
+</t>
+<t tx="leo.20170419010154.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419010154.5">&lt;p align="left"&gt;
+1. Download tiny2017_700MB&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. How to launch leo&lt;/p&gt;
+</t>
+<t tx="leo.20170419010755.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419010755.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419010755.3"># Week 2
+</t>
+<t tx="leo.20170419010755.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419010755.5">&lt;p align="left"&gt;
+1. Three bar assembly solvespace&lt;/p&gt;
+
+</t>
+<t tx="leo.20170419010757.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419010757.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419010757.3"># Week 3
+
+</t>
+<t tx="leo.20170419010757.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419010757.5">&lt;p align="left"&gt;
+1. Threebar link butten&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. Fossil setting &lt;/p&gt;
+</t>
+<t tx="leo.20170419011032.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419011032.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011032.3"># Week 4
+
+</t>
+<t tx="leo.20170419011032.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011032.5">&lt;p align="left"&gt;
+1. One Link Spin Solvespace&lt;/p&gt;
+</t>
+<t tx="leo.20170419011655.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419011655.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011655.3"># Week 5
+
+</t>
+<t tx="leo.20170419011655.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011655.5">&lt;p align="left"&gt;
+1. One Link Spin Simulation&lt;/p&gt;
+</t>
+<t tx="leo.20170419011747.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419011747.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011747.3"># Week 6
+
+</t>
+<t tx="leo.20170419011747.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419011747.5">&lt;p align="left"&gt;
+1. Three bar work Simulation&lt;/p&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

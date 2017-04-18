@@ -4,7 +4,19 @@
 Three bar work Simulation
 &lt;/h3&gt;
 
-</summary><category term="作業"></category></entry><entry><title>week 5</title><link href="./week-5.html" rel="alternate"></link><published>2017-03-21T05:53:00+08:00</published><updated>2017-03-21T05:53:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-21:./week-5.html</id><summary type="html">&lt;h3&gt;
+
+
+&lt;h3&gt;OnShape assembly&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/212856904" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212856904"&gt;fourbar assembly OnShape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;V-rep simulation&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/213707068" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213707068"&gt;fourbar assembly OnShape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>week 5</title><link href="./week-5.html" rel="alternate"></link><published>2017-03-21T05:53:00+08:00</published><updated>2017-03-21T05:53:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-21:./week-5.html</id><summary type="html">&lt;h3&gt;
 40423219
 One Link Spin Simulation
 &lt;/h3&gt;
@@ -17,6 +29,8 @@ One Link Spin Simulation
 
 &lt;iframe src="./../data/solvespace/onelinkspin/onelinkspin.PNG" width="700" height="510"&gt;&lt;/iframe&gt;
 
+&lt;h3&gt;V-rep simulation&lt;/h3&gt;
+
 &lt;iframe src="https://player.vimeo.com/video/210539407" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/210539407"&gt;vrep_spin&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>week 4</title><link href="./week-4.html" rel="alternate"></link><published>2017-03-20T04:53:00+08:00</published><updated>2017-03-20T04:53:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-20:./week-4.html</id><summary type="html">&lt;h3&gt;
@@ -25,8 +39,6 @@ One Link Spin Solvespace
 &lt;/h3&gt;
 
 
-
-&lt;h3&gt;Fourbar&lt;/h3&gt;
 
 &lt;p&gt;One Link Spin: &lt;button onClick="lity('https://vimeo.com/210533925')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; SolveSpace&lt;/button&gt; 
 &lt;/p&gt;
