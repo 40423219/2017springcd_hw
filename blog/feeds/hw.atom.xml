@@ -11,9 +11,9 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/213774219"&gt;midterm4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;尺寸&amp;軌跡圖&lt;/h2&gt;
+&lt;h4&gt;尺寸&amp;軌跡圖&lt;/h4&gt;
 
-&lt;iframe src="../data/midterm4.PNG" width="700" height="510"&gt;&lt;/iframe&gt;
+&lt;iframe src="../data/midterm4.PNG" width="700"&gt;&lt;/iframe&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -80,7 +80,11 @@ ctx.closePath()
 
 &lt;iframe src="https://player.vimeo.com/video/213784388" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213784388"&gt;Fourbar Walker OnShape part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>week 6</title><link href="./week-6.html" rel="alternate"></link><published>2017-03-29T11:26:00+08:00</published><updated>2017-03-29T11:26:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-29:./week-6.html</id><summary type="html">&lt;h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213784388"&gt;Fourbar Walker OnShape part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/213787457" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213787457"&gt;Fourbar Walker OnShape part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>week 6</title><link href="./week-6.html" rel="alternate"></link><published>2017-03-29T11:26:00+08:00</published><updated>2017-03-29T11:26:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-29:./week-6.html</id><summary type="html">&lt;h3&gt;
 40423219
 Four bar work Simulation
 &lt;/h3&gt;
@@ -104,11 +108,11 @@ One Link Spin Simulation
 
 
 
-&lt;h2&gt;使用Solvespace轉檔&lt;/h2&gt;
+&lt;h3&gt;使用Solvespace轉檔&lt;/h3&gt;
 
-&lt;h3&gt;點左上角File&gt;Export Triangle Mesh&gt;轉成.stl檔案，即可用Vrep開啟。&lt;/h3&gt;
+&lt;h4&gt;點左上角File&gt;Export Triangle Mesh&gt;轉成.stl檔案，即可用Vrep開啟。&lt;/h4&gt;
 
-&lt;iframe src="../data/solvespace/onelinkspin/onelinkspin.PNG" width="700" height="510"&gt;&lt;/iframe&gt;
+&lt;iframe src="../data/solvespace/onelinkspin/onelinkspin.PNG" width="700" &gt;&lt;/iframe&gt;
 
 &lt;h3&gt;V-rep simulation&lt;/h3&gt;
 
@@ -259,7 +263,7 @@ Three bar assembly
 
 &lt;p&gt;&lt;a href="https://vimeo.com/207990020"&gt;組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;solvespace真的很容易過度約束，光是2D的點線面就很容易，更何況是3D組合圖，但經過不斷的練習，也比較熟練使用了。 &lt;/h2&gt;</summary><category term="作業"></category></entry><entry><title>week 1</title><link href="./week-1.html" rel="alternate"></link><published>2017-03-01T10:07:00+08:00</published><updated>2017-03-01T10:07:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-01:./week-1.html</id><summary type="html">&lt;h3&gt;
+&lt;h3&gt;solvespace真的很容易過度約束，光是2D的點線面就很容易，更何況是3D組合圖，但經過不斷的練習，也比較熟練使用了。 &lt;/h3&gt;</summary><category term="作業"></category></entry><entry><title>week 1</title><link href="./week-1.html" rel="alternate"></link><published>2017-03-01T10:07:00+08:00</published><updated>2017-03-01T10:07:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-01:./week-1.html</id><summary type="html">&lt;h3&gt;
 40423219 
 How to launch leo
 &lt;/h3&gt;
@@ -270,4 +274,4 @@ How to launch leo
 
 &lt;p&gt;&lt;a href="https://vimeo.com/207985383"&gt;如何啟動Leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;這次點start後leo不會自動跳出來，問了老師之後才知道要自己用ScitE來打開它。&lt;/h2&gt;</summary><category term="作業"></category></entry></feed>
+&lt;h4&gt;這次點start後leo不會自動跳出來，問了老師之後才知道要自己用ScitE來打開它。&lt;/h4&gt;</summary><category term="作業"></category></entry></feed>
