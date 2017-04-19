@@ -11,6 +11,10 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/213774219"&gt;midterm4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h2&gt;尺寸&amp;軌跡圖&lt;/h2&gt;
+
+&lt;iframe src="../data/midterm4.PNG" width="700" height="510"&gt;&lt;/iframe&gt;
+
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
@@ -72,7 +76,11 @@ ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
 
-&lt;h3&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h3&gt;</summary><category term="作業"></category></entry><entry><title>week 6</title><link href="./week-6.html" rel="alternate"></link><published>2017-03-29T11:26:00+08:00</published><updated>2017-03-29T11:26:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-29:./week-6.html</id><summary type="html">&lt;h3&gt;
+&lt;h3&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/213784388" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213784388"&gt;Fourbar Walker OnShape part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>week 6</title><link href="./week-6.html" rel="alternate"></link><published>2017-03-29T11:26:00+08:00</published><updated>2017-03-29T11:26:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-29:./week-6.html</id><summary type="html">&lt;h3&gt;
 40423219
 Four bar work Simulation
 &lt;/h3&gt;
