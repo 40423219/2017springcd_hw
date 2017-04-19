@@ -5,13 +5,76 @@
 
 
 
-&lt;h3&gt;第二題&lt;/h3&gt;
+&lt;h3&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/213774219" width="680" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213774219"&gt;midterm4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>week 6</title><link href="./week-6.html" rel="alternate"></link><published>2017-03-29T11:26:00+08:00</published><updated>2017-03-29T11:26:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-29:./week-6.html</id><summary type="html">&lt;h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213774219"&gt;midterm4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47671379"&gt;40423219&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+
+&lt;canvas id="fourbar" width="600" height="400"&gt;&lt;/canvas&gt;
+
+&lt;div id="container1"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+fourbar_data = open("./data/midterm4.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 &lt;= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 4 倍
+ratio = 4
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
+    #container1 &lt;= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+&lt;/script&gt;
+
+&lt;h3&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h3&gt;</summary><category term="作業"></category></entry><entry><title>week 6</title><link href="./week-6.html" rel="alternate"></link><published>2017-03-29T11:26:00+08:00</published><updated>2017-03-29T11:26:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-03-29:./week-6.html</id><summary type="html">&lt;h3&gt;
 40423219
-Three bar work Simulation
+Four bar work Simulation
 &lt;/h3&gt;
 
 
