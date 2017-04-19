@@ -39,7 +39,7 @@ canvas = doc["fourbar"]
 container1 = doc['container1']
 ctx = canvas.getContext("2d")
 
-fourbar_data = open("./data/midterm4.csv").read()
+fourbar_data = open("../data/midterm4.csv").read()
 fourbar_list = fourbar_data.splitlines()
 #container1 &lt;= fourbar_list[0]
 # 以下可以利用 ctx 物件進行畫圖
@@ -100,7 +100,7 @@ One Link Spin Simulation
 
 &lt;h3&gt;點左上角File&gt;Export Triangle Mesh&gt;轉成.stl檔案，即可用Vrep開啟。&lt;/h3&gt;
 
-&lt;iframe src="./../data/solvespace/onelinkspin/onelinkspin.PNG" width="700" height="510"&gt;&lt;/iframe&gt;
+&lt;iframe src="../data/solvespace/onelinkspin/onelinkspin.PNG" width="700" height="510"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;V-rep simulation&lt;/h3&gt;
 
