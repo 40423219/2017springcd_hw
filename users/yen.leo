@@ -28,11 +28,11 @@
 </v>
 </v>
 <v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
